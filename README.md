@@ -1,10 +1,11 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=>_%20🖥️&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=>_%20🖥️&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-
 
 <h3 align="center">Frontend developer aspiring to become a fullstack developer, with experience leading real-world projects using agile methodologies like Scrum. Currently working as a Project Manager at EJCM, I'm passionate about creating exceptional user experiences. My favorite language is TypeScript, and I have future aspirations of becoming a product owner, product manager, or tech lead, leveraging my skills in development and project management to drive successful outcomes.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=brunopavese&label=Profile%20views&color=0eb474&style=flat" alt="brunopavese" /> </p>
+<img align="right" width="400" src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=ecf05e476cckrfqy1aybameomna1bzagekh671er0r9setd3&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunopavese&label=Profile%20views&color=0eb474&style=flat" alt="brunopavese" /> </p>
 
 - 🔭 I’m currently working on [EJCM Projects](https://github.com/EJCM-workspace)
 
@@ -120,37 +121,5 @@
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunopavese&show_icons=true&theme=dark&locale=en" alt="brunopavese"/>
+  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=brunopavese&show_icons=true&theme=dark&locale=en" alt="brunopavese"/>
 </p>
-
-<!-- <style>
-  .skills {
-    background-color: #151515;
-    border-style: solid;
-    border-width: 0.5px;
-    border-color: #e4e2e2;
-    border-radius: 0.5rem;
-    padding:12px;
-    display: flex;
-    gap:12px;
-    align-items: center;
-    padding-bottom:12px;
-  }
-  .contact {
-    padding:12px;
-    display: flex;
-    gap:12px;
-    align-items: center;
-  }
-  .white-bg {
-    background-color: white;
-    padding: 2px;
-    border-radius: 100%
-  }
-  .status {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding-top: 2rem;
-  }
-</style> -->
