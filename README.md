@@ -1,35 +1,4 @@
-<style>
-  .skills {
-    background-color: #151515;
-    border-style: solid;
-    border-width: 0.5px;
-    border-color: #e4e2e2;
-    border-radius: 0.5rem;
-    padding: 12px;
-    display: flex;
-    gap: 1rem;
-    align-items: center;
-    margin-bottom: 1rem;
-  }
-  .contact {
-    padding: 12px;
-    display: flex;
-    gap: 1rem;
-    align-items: center;
-  }
-  .white-bg {
-    background-color: white;
-    padding: 2px;
-    border-radius: 100%
-  }
-  .status {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-top: 2rem;
-  }
-</style>
-
+<main>
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 
 <h3 align="center">Frontend Developer | Aspiring Fullstack Developer | Project Manager at EJCM | Experienced in leading real-world projects with Agile methodologies like Scrum | Proficient in TypeScript, my current favorite language | Future aspirations include becoming a project leadership role such as Product Owner, Product Manager, or Tech Lead.</h3>
@@ -70,3 +39,36 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunopavese&show_icons=true&theme=dark&locale=en" alt="brunopavese" /></p>
 </div>
+
+<style>
+  .skills {
+    background-color: #151515;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #e4e2e2;
+    border-radius: 0.5rem;
+    padding: 12px;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  .contact {
+    padding: 12px;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+  .white-bg {
+    background-color: white;
+    padding: 2px;
+    border-radius: 100%
+  }
+  .status {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2rem;
+  }
+</style>
+</main>
