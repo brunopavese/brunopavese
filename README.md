@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=>_%20🖥️&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 
-<h3 align="center">Frontend developer aspiring to become a fullstack developer, with experience leading real-world projects using agile methodologies like Scrum. Currently working as a Project Manager at EJCM, I'm passionate about creating exceptional user experiences. My favorite language is TypeScript, and I have future aspirations of becoming a product owner, product manager, or tech lead, leveraging my skills in development and project management to drive successful outcomes.</h3>
+<h3 align="center">Web and mobile fullstack developer, with experience leading real-world projects using agile methodologies like Scrum. Currently working as a Project Manager at EJCM, I'm passionate about creating exceptional user experiences. My favorite language is TypeScript, and I have future aspirations of becoming a product owner, product manager, or tech lead, leveraging my skills in development and project management to drive successful outcomes.</h3>
 
 <img align="right" width="400" src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=ecf05e476cckrfqy1aybameomna1bzagekh671er0r9setd3&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
