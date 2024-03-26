@@ -1,17 +1,17 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=>_%20🖥️&width=800&height=200)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Bruno</h1>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Bruno&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+<!-- <h1 align="center">Hi 👋, I'm Bruno</h1> -->
 
-<h3 align="center">Web and mobile fullstack developer, with experience leading real-world projects using agile methodologies like Scrum. Currently working as a Project Manager at EJCM, I'm passionate about creating exceptional user experiences. My favorite language is TypeScript, and I have future aspirations of becoming a product owner, product manager, or tech lead, leveraging my skills in development and project management to drive successful outcomes.</h3>
+<h3 align="center">Software developer from Brazil, with experience leading real-world projects using agile methodologies like Scrum. I am graduating with an AS in System Analysis and Development at the Rio de Janeiro State University. My favorite language is TypeScript, and I have future aspirations of becoming a product owner, product manager, or tech lead. When I'm not coding, I enjoy music, games, bodybuilding, and hanging out. They're even more fun with friends!</h3>
 
 <img align="right" width="400" src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=ecf05e476cckrfqy1aybameomna1bzagekh671er0r9setd3&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunopavese&label=Profile%20views&color=0eb474&style=flat" alt="brunopavese" /> </p>
 
-- 🔭 I’m currently working on [EJCM Projects](https://github.com/EJCM-workspace)
+<!-- - 🔭 I’m currently working on [EJCM Projects](https://github.com/EJCM-workspace) -->
 
-- 🌱 I’m currently learning **Prisma, Express, Docker and Redis**
+- 🌱 I’m currently learning **AngularJS**
 
-- 💬 Ask me about **Next.js**
+- 💬 Ask me about **OOP**
 
 - 📫 How to reach me **pavese.bruno@outlook.com**
 
@@ -34,6 +34,12 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/>
@@ -69,6 +75,9 @@
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="nodejs" width="50" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="40"/>
